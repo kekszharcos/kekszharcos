@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Benedek
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning at the University of Szeged
+- 🌱 I’m currently studying at the University of Szeged
 - ⚡ Fun fact: I'm calm, but people think I have an indifferent attitude.
 
 <a href="#">

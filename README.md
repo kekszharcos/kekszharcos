@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Benedek
-- 👀 I’m interested in web and software development
+- 👀 I’m interested in web, software development and networking
 - 🌱 I currently study at the University of Szeged
 - ⚡ Fun fact: I'm up to challanges
   
